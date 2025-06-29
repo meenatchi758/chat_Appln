@@ -4,3 +4,4 @@ eventlet
 flask-sqlalchemy
 flask-login
 werkzeug
+gunicorn
